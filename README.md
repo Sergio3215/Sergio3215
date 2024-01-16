@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hola 👋
+
+<img src="https://files.readme.io/8454025-Logo_Banner1.png" width="800"/>
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHTP63MP4d-svdh-zbZl3vQ?style=social)](https://www.youtube.com/channel/UCHTP63MP4d-svdh-zbZl3vQ?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/principiante_en_programar?style=social)](https://www.twitch.tv/principiante_en_programar)
+[![GitHub followers](https://img.shields.io/github/followers/Sergio3215?style=social)](https://github.com/Sergio3215)
+<!-- ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield) -->
+
+### Acerca de mi 🤓
+
+- 🏆 Power Platform Developer
+- 🖥 React Js and Next Js Developer
+- 💬 C#.Net Developer
+- 📱 Mobile Developer (React Native with Expo)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Sergio3215">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sergio3215&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sergio3215&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **Sergio3215/Sergio3215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
