@@ -1,4 +1,4 @@
-### Hi, I am Sergio 👋
+## Hi, I am Sergio 👋
 
 <!-- <img src="https://files.readme.io/8454025-Logo_Banner1.png" width="800"/>-->
 <img src="./Logo Banner.png" width="800"/>
@@ -8,13 +8,16 @@
 [![GitHub followers](https://img.shields.io/github/followers/Sergio3215?style=social)](https://github.com/Sergio3215)
 <!-- ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield) -->
 
-### Acerca de mi 🤓
 <!--
+### Acerca de mi 🤓
+
 - 🏆 Power Platform Developer
 - 🖥 React Js and Next Js Developer
 - 💬 C#.Net Developer
 - 📱 Mobile Developer (React Native with Expo)
 -->
+
+## About me in Code 🤓
 
 ```js
 const Sergio3215 = {
@@ -25,7 +28,7 @@ const Sergio3215 = {
 ```
 
 
-### 📈 &nbsp;GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Sergio3215">
