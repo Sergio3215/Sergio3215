@@ -1,6 +1,7 @@
 ### Hola 👋
 
-<img src="https://files.readme.io/8454025-Logo_Banner1.png" width="800"/>
+<!-- <img src="https://files.readme.io/8454025-Logo_Banner1.png" width="800"/>-->
+<img src="./Logo Banner.png" width="800"/>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHTP63MP4d-svdh-zbZl3vQ?style=social)](https://www.youtube.com/channel/UCHTP63MP4d-svdh-zbZl3vQ?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/principiante_en_programar?style=social)](https://www.twitch.tv/principiante_en_programar)
