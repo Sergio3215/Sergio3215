@@ -18,11 +18,9 @@
 
 ```js
 const Sergio3215 = {
-
   pronouns: ["he", "his"],
   code: ["Javascript", "C#", "HTML5", "CSS3"],
   tools: ["React Js", "Next Js", "Node", "Power Platform", "C#.Net", "ASP.NET MVC", "Tailwind", "Styled-Components"]
-
 }
 ```
 
