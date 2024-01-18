@@ -8,14 +8,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/Sergio3215?style=social)](https://github.com/Sergio3215)
 <!-- ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield) -->
 
-## About me 🤓
+## 🖋 About me 
 
 - 🏆 Power Platform Developer
 - 🖥 React Js and Next Js Developer
-- 💬 C#.Net Developer
+- 💬 C#.Net Developer and ASP.NET Mvc
 - 📱 Mobile Developer (React Native with Expo)
 
-## About me in Code 🤓
+## 🤓 About me in Code 
 
 ```js
 const Sergio3215 = {
