@@ -4,7 +4,7 @@
 <img src="./Logo Banner.png" width="800"/>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHTP63MP4d-svdh-zbZl3vQ?style=social)](https://www.youtube.com/channel/UCHTP63MP4d-svdh-zbZl3vQ?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/principiante_en_programar?style=social)](https://www.twitch.tv/principiante_en_programar)
+[![Twitch Status](https://img.shields.io/twitch/status/serezdev?style=social)](https://www.twitch.tv/principiante_en_programar)
 [![GitHub followers](https://img.shields.io/github/followers/Sergio3215?style=social)](https://github.com/Sergio3215)
 <!-- ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield) -->
 
